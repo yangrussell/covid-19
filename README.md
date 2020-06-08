@@ -1,0 +1,1 @@
+This dataset is a processed, filtered version of this invidual-level dataset (Xu et al.). The original publicly available dataset is available here: https://www.nature.com/articles/s41597-020-0448-0. This processed version includes 4 clinical explanatory variables and an outcome (recovery/mortality).
